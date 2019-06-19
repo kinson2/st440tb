@@ -1,0 +1,3 @@
+# Research Topics
+
+Here we highlihgt a few research areas that center on data management as it relates to privacy. In the current moment of the Internet, openness, and government, personal privacy is a hot topic. Data mangement plays a critical role in personal privacy as the data wranglers and managers share responsibility to protect personal identifying information from being exposed or leaked. There are competing ideas of how to best retain privacy while sharing public data sets, namely differential privacy and ... 

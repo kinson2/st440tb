@@ -1,3 +1,5 @@
 # Accessing Data {#access}
 
-Here is a review of existing methods.
+Here we discuss what it means to access data. The hope is that we cover more than just one single software for these chapters - SAS, R, & Python.
+
+Using R and SAS is understood even within a single RStudio project. We need to look into this for Python.
