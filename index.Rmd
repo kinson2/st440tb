@@ -8,7 +8,6 @@ output:
   #bookdown::pdf_book: default
 ---
 
-# Index
 
 This is the opening line of the book
 
