@@ -1,0 +1,17 @@
+---
+title: "Statistical Data Management"
+author: "Author Names"
+site: bookdown::bookdown_site
+documentclass: book
+output:
+  bookdown::gitbook: default
+  #bookdown::pdf_book: default
+---
+
+# Index
+
+This is the opening line of the book
+
+Second paragraph.
+
+<!-- If you need PDF output, uncomment bookdown::pdf_book above in YAML. You will need a LaTeX installation, e.g., https://yihui.name/tinytex/ -->
